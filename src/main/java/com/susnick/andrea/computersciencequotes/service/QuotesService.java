@@ -20,4 +20,4 @@ public class QuotesService {
 
         return quotes;
     }
-}
+} 
